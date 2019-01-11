@@ -10,8 +10,8 @@ import (
 	nurl "net/url"
 
 	_ "github.com/cznic/ql/driver"
-	"github.com/golang-migrate/migrate/v4"
-	"github.com/golang-migrate/migrate/v4/database"
+	"github.com/tsenart/migrate/v4"
+	"github.com/tsenart/migrate/v4/database"
 )
 
 func init() {

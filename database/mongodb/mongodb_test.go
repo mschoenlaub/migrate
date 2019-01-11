@@ -18,8 +18,8 @@ import (
 )
 
 import (
-	dt "github.com/golang-migrate/migrate/v4/database/testing"
-	"github.com/golang-migrate/migrate/v4/dktesting"
+	dt "github.com/tsenart/migrate/v4/database/testing"
+	"github.com/tsenart/migrate/v4/dktesting"
 )
 
 var (
